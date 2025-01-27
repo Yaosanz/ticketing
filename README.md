@@ -19,8 +19,8 @@ Ensure you have the following installed on your machine:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/Yaosanz/ticketing.git
+cd ticketing
 npm install
 # or
 yarn install
