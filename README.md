@@ -1,6 +1,3 @@
-Berikut adalah versi yang lebih rapi dan profesional dari README Anda, dengan fokus pada proyek Next.js untuk ticketing menggunakan Clerk untuk autentikasi:
-
-```markdown
 # Ticketing Platform with Next.js and Clerk Authentication
 
 This is a **ticketing platform** built with [Next.js](https://nextjs.org), featuring secure user authentication powered by [Clerk](https://clerk.dev). The application allows users to create, view, and manage tickets seamlessly.
@@ -22,8 +19,8 @@ Ensure you have the following installed on your machine:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/Yaosanz/ticketing.git
+cd ticketing
 npm install
 # or
 yarn install
